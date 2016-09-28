@@ -1,0 +1,54 @@
+.profile_tit {
+	background-color:#003c8d;
+	margin-top:63px;
+	padding: 12px 0px;
+	color:#FFFFFF;
+	text-transform:uppercase!important;
+	font-size:18px;
+}
+.t_up {
+	text-transform:uppercase!important
+}
+.linkstop {
+	float:right!important;
+	background-color:#313131
+}
+
+
+
+#blurbox-wrapper{  
+    background:none!important;
+    border-radius: 5px;
+    display: block;
+    height: 50%;
+    left: 50%;
+    max-height: 95%;
+    max-width: 95%;
+    opacity: 0;
+    overflow: visible!important;
+    padding: 10px;
+    position: fixed;
+    top: 50%;
+    width: 50%;
+    z-index: 9999;
+}
+ #blurbox-wrapper{
+ height: 375px!important;
+    transition: opacity 300ms ease 0s!important;
+    width: 500px!important;
+	}
+
+
+
+
+
+
+
+
+#blurbox-wrapper{    margin:0px auto!important; width:300px!important;
+    margin-top: 57px!important;
+  }
+
+
+
+

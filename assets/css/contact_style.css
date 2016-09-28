@@ -1,0 +1,66 @@
+
+.tarea_style {
+	float:left;
+	width:283px;
+	padding:8px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	-moz-box-shadow: 0 1px 2px 0px #888888 inset;
+	-webkit-box-shadow:0 1px 2px 0px #888888 inset;
+	box-shadow:0 1px 2px 0px #888888 inset;
+	outline:none;
+	border:1px solid #eeeeee;
+	color: #666666;
+	height: 100px;
+}
+.lbox_tl_in {
+	float:left;
+	width:514px;
+	padding:39px 38px 0px 42px;
+	font-size: 14px;
+	line-height:20px;
+	color: #666666;
+}
+.lbox_t2 {
+	float:left;
+	width:472px;
+	padding:69px 50px 52px 72px;
+}
+.blok_cnt {
+	float:left;
+	width:100%;
+	border-bottom:1px solid #e7e7e7;
+	margin-bottom:30px;
+	padding-bottom:25px;
+}
+.blok_cnt_img {
+	float:left;
+	width:32px;
+}
+.blok_cnt_txt {
+	float:left;
+	width:270px;
+	margin-left:10px;
+	color: #333333;
+}
+.lbox_tr1 {
+	float:left;
+	width:321px;
+	height: 172px;
+	line-height: normal;
+	color: #999999;
+	padding:75px 30px 52px;
+}
+.txt_red_b {
+	color:#ec3425;
+	font-size:17px;
+	font-weight:bold;
+}
+.link_red {
+	color:#ec3425;
+	text-decoration:underline;
+}
+.txt_gray {
+	color:#999999;
+}

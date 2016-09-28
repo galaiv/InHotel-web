@@ -1,0 +1,21 @@
+body{ margin:0px; padding:0px; font:normal 12px Arial, Helvetica, sans-serif; line-height:16px;	 }
+.outerwrap{width:295px; margin:-11px auto; padding:px 12px; background-image:url(images/termsbg.png); background-size:100% 100%;
+-moz-background-size:100% 100%;
+background-attachment:fixed;
+background-position:center;
+}
+.termswrap{ padding:10px 0px;}
+.termsicon{ 
+	width:21px; height:21px; float:left;
+	background-image:url(images/infoicon.png); background-repeat:no-repeat;
+	background-size:100% 100%;
+	-moz-backgroun-size:100% 100%;
+	}
+.termstxt{ color:#6a6a6a;	
+		text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
+		margin-left:10px;
+		width:264px;
+		float:left;
+		}
+.termstxt span{ color:#de1f08; text-transform:uppercase;}
+.clear{clear:both;}
